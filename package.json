@@ -1,0 +1,17 @@
+{
+  "name": "react_practice",
+  "version": "1.0.0",
+  "description": "This is React practice by Ramya",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "practice",
+    "ramya"
+  ],
+  "author": "Ramya Mutyam",
+  "license": "ISC"
+}
